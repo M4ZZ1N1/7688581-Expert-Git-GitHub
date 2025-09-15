@@ -57,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **M4ZZ1N1**
 
 ## License
 
